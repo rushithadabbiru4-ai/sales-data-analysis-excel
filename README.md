@@ -1,24 +1,24 @@
-Sales Data Analysis Using Excel
 
-Project Overview:
-Analyzed sales data using Microsoft Excel to identify sales trends, top-performing products, revenue patterns, and regional performance.
+# Sales Data Analysis Using Excel
 
-Tools Used:
+## Project Overview
+Analyzed sales data using Microsoft Excel to identify sales trends, top-performing products, regional performance, and category-wise sales.
+
+## Analysis Performed
+- Monthly Sales Analysis
+- Region-wise Sales Analysis
+- Category-wise Sales Analysis
+- Top 10 Products Analysis
+
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Charts
-- Conditional Formatting
-- Lookup Functions
-
-Key Insights:
-- Identified top-selling products
-- Analyzed monthly sales trends
-- Compared regional sales performance
-- Created interactive dashboard
-
-Skills Demonstrated:
 - Data Analysis
-- Data Cleaning
+
+## Skills Demonstrated
+- Data Analysis
 - Data Visualization
-- Dashboard Development
-- Reporting & Analytics
+- Dashboard Creation
+- Reporting
+- Business Insights
